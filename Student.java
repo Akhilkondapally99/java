@@ -2,7 +2,7 @@ public class Student {
     public static void main(String[] args) {
         int rollno = 1596;
         String sname = "Akhil";
-        String course = "Maven"; 
+        String course = "JAVA"; 
         System.out.println("LEARN HERE AND LEAD ANYWHERE!!!");
         System.out.println("My Name is: " + sname);
         System.out.println("My Course is: " + course);
